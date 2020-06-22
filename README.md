@@ -9,6 +9,3 @@ En la primera parte se encuentra las curvas que modelan los datos de xy.csv, seg
 μY =  0.04762190476190477
 
 Sabiendo que se tratan de funciones gaussianas.
-
-
-$$x=a + a$$
