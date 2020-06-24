@@ -7,9 +7,9 @@ Se encunetran los parametros de lñas funciones marginales de x y y:
 
 μY =  15.04566
 
-σX =  2.801717628598568
+σX =  3.201717628598568
 
-σY = 5.306435259606965
+σY = 6.026435259606965
 
 Parte #2
 
