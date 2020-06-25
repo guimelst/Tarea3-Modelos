@@ -28,7 +28,7 @@ La covarianza es un valor que indica el grado de variación conjunta de dos vari
 
 Covarianza =  0.06773050531225595
 
-es una medida de dependencia lineal entre dos variables aleatorias cuantitativas.
+Es una medida de dependencia lineal entre dos variables aleatorias cuantitativas.
 Coeficiente de Pearson =  0.0004530952029655496
 
 Parte #4
