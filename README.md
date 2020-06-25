@@ -3,13 +3,13 @@ Parte #1
 
 Se encunetran los parametros de lñas funciones marginales de x y y:
 
-μX =  9.935360000000001
+μx =  9.935360000000001
 
-μY =  15.04566
+μy =  15.04566
 
-σX =  3.201717628598568
+σx =  3.201717628598568
 
-σY = 6.026435259606965
+σy = 6.026435259606965
 
 Parte #2
 
@@ -33,11 +33,11 @@ Coeficiente de Pearson =  0.0004530952029655496
 
 Parte #4
 
-Se puede apreciar la función marginal de X
+Se puede apreciar la función marginal de x
 
 ![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20de%20densidad%20marginal%20X.png?raw=true)
 
-Se puede apreciar la función marginbal de Y
+Se puede apreciar la función marginbal de y
 
 ![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20de%20densidad%20marginal%20Y.png?raw=true)
 
