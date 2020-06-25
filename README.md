@@ -15,10 +15,7 @@ Parte #2
 
 Como se sabe la función de densidad conjunta es la multiplicación de las dos funciones marginales de x y y.
 
-
-
-Ahora una forma más reducida de poner la misma ecuación.
-
+<img src="https://latex.codecogs.com/gif.latex?\frac{1}{\sqrt{2\pi}}(\frac{e^{\frac{-(x-\mu&space;_&space;x)^{2}}{2\sigma&space;_x^{2}}}}{\sigma_x})(\frac{e^{\frac{-(y-\mu&space;_&space;y)^{2}}{2\sigma&space;_y^{2}}}}{\sigma_y})=fxy" title="\frac{1}{\sqrt{2\pi}}(\frac{e^{\frac{-(x-\mu _ x)^{2}}{2\sigma _x^{2}}}}{\sigma_x})(\frac{e^{\frac{-(y-\mu _ y)^{2}}{2\sigma _y^{2}}}}{\sigma_y})=fxy" /></a>
 
 
 Parte #3
@@ -36,10 +33,17 @@ Coeficiente de Pearson =  0.0004530952029655496
 
 Parte #4
 
-Se puede observar en las figuras adjuntas en el github, la forma de la funciones de densidad marginal de "x" y "y".
-Función de densidad marginal X y Función de densidad marginal Y, respectivamnete.
+Se puede apreciar la función marginal de X
+
+![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20de%20densidad%20marginal%20X.png?raw=true)
+
+Se puede apreciar la función marginbal de Y
+
+![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20de%20densidad%20marginal%20Y.png?raw=true)
 
 Para el caso de la función conjunta de los valores de "x" y "y", Función de densidad Conjuta.
+
+![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20Densidad%20conjunta%20XY.png?raw=true)
 
 
 
