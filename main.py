@@ -71,16 +71,16 @@ plt.savefig('Función de densidad marginal Y')
 
 
 
-X, Y = np.meshgrid(ax,ay)
+x, y = np.meshgrid(ax,ay)
 
-fxy= (1/(2*np.pi*3.29944287*6.02693775))*np.exp(-(((X-9.90484381)**2)/(2*3.29944287**2) + ((Y-15.0794609)**2)/(2*6.02693775**2)))
+fxy= (1/(2*np.pi*3.29944287*6.02693775))*np.exp(-(((x-9.90484381)**2)/(2*3.29944287**2) + ((y-15.0794609)**2)/(2*6.02693775**2)))
 
 fig = plt.figure()
 ax = plt.axes(projection='3d')
-ax.plot_surface(X, Y, fxy)
-plt.xlabel('Valor de X')
-plt.ylabel('Valor de Y')
+ax.plot_surface(x, y, fxy)
+plt.xlabel('Valor de x')
+plt.ylabel('Valor de y')
 ax.set_title('Función Densidad conjunta')
-plt.savefig('Función Densidad conjunta XY')
+plt.savefig('Función Densidad conjunta xy')
 plt.show()
 
