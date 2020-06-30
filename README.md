@@ -37,7 +37,7 @@ Se puede apreciar la función marginal de x
 
 ![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20de%20densidad%20marginal%20X.png?raw=true)
 
-Se puede apreciar la función marginbal de y
+Se puede apreciar la función marginal de y
 
 ![img](https://github.com/guimelst/Tarea3-Modelos/blob/master/Funci%C3%B3n%20de%20densidad%20marginal%20Y.png?raw=true)
 
